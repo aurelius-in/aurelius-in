@@ -53,11 +53,11 @@ Top skills: MLOps • AI Architecture • ML Engineering
 ---
 
 ## 📚 Published books (select)
-- The Agentic AI Week: Ship Weekly. Prove Daily. Scale Safely — Aug 23, 2025  
-- The AI Architect's Handbook: Designing Scalable and Intelligent Systems — Mar 25, 2025  
-- The AI-Driven Organization: Strategies for Success — Jun 3, 2024  
-- Artificial Intelligence in Robotics: Transforming the Future — Mar 2, 2024  
-- AI Strategy and Implementation: A Practical Guide for Leaders — Jan 1, 2024
+- The Agentic AI Week: Ship Weekly. Prove Daily. Scale Safely  
+- The AI Architect's Handbook: Designing Scalable and Intelligent Systems    
+- The AI-Driven Organization: Strategies for Success 
+- Artificial Intelligence in Robotics: Transforming the Future 
+- AI Strategy and Implementation: A Practical Guide for Leaders 
 
 ---
 
