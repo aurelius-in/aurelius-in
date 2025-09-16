@@ -13,8 +13,6 @@ I design and ship AI systems that create business outcomes: multi-agent pipeline
 - Design end-to-end data pipelines for large, distributed systems and integrate proprietary + third‑party data into secure AI microservices.
 - Lead research‑to‑production initiatives that push technical and operational edges while preserving governance and auditability.
 
-I consult and develop under Reliable AI Network, LLC and previously led the DeepRisk internal AI platform at PwC — delivering ingestion to Postgres and vector stores, multi‑agent retrieval, and a React front end tied to Salesforce data.
-
 ---
 
 ## 💸 Outcomes I deliver
