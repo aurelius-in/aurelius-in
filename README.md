@@ -52,7 +52,7 @@ Top skills: MLOps • AI Architecture • ML Engineering
 
 ---
 
-## 📚 Published books (select)
+## 📚 Published books
 - The Agentic AI Week: Ship Weekly. Prove Daily. Scale Safely  
 - The AI Architect's Handbook: Designing Scalable and Intelligent Systems    
 - The AI-Driven Organization: Strategies for Success 
