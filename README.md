@@ -60,7 +60,7 @@ Top skills: MLOps • AI Architecture • ML Engineering
 ---
 
 ## 📌 Availability & focus
-Open to Staff or Principal IC roles where I can own platform, retrieval, agents, evals, safety, and the UI that ties it together. Remote only. Flexible worldwide hours. I consult and build under Reliable AI Network, LLC for companies that want production readiness, not just demos.
+Open to Staff or Principal IC roles where I can own platform, retrieval, agents, evals, safety, and the UI that ties it together. Remote only. Flexible worldwide hours. I consult and build under Reliable AI Network, Inc. for companies that want production readiness, not just demos.
 
 ---
 
@@ -69,3 +69,4 @@ Open to Staff or Principal IC roles where I can own platform, retrieval, agents,
 - GitHub: https://github.com/aurelius-in  
 - Consulting / Company: Reliable AI Network, LLC  
 - Schedule a chat: https://calendly.com/oliveraellison/15min
+- Email: oliver@reliableAInetwork.com
