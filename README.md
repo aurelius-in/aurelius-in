@@ -66,7 +66,7 @@ Open to Staff or Principal IC roles where I can own platform, retrieval, agents,
 
 ## 🤝 Connect
 - LinkedIn: https://www.linkedin.com/in/oellison/  
-- GitHub: https://github.com/aurelius-in  
-- Consulting / Company: Reliable AI Network, LLC  
+- AI Portfolio: [https://github.com/aurelius-in/](https://github.com/aurelius-in/agentic-portfolio)
+- Consulting / Company: Reliable AI Network, Inc.  
 - Schedule a chat: https://calendly.com/oliveraellison/15min
 - Email: oliver@reliableAInetwork.com
