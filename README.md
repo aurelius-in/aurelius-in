@@ -1,72 +1,87 @@
-
 # Oliver Aurelius Ellison, MS SD 👋
 
-Principal AI Platform Engineer | Enterprise Multi-Agent Systems | Generative AI | RAG | MLOps | 5x Author | Army Veteran | Girl Dad
+Software Architect | Production AI | Agentic Systems | Author | Army Veteran | Girl Dad
 
-I design and ship AI systems that create business outcomes: multi-agent pipelines, RAG over messy enterprise data, evals and guardrails, and UI teams actually use. I build production-ready AI — not demos — with measurable impact, clear guardrails, and low operational drag. Remote only. Flexible across time zones.
+I help people go from a real problem to a product that can earn money. Bring a problem. Manifest a solution. Check it before the market. Then get paid.
 
----
-
-## 🔭 What I do
-- Architect and operationalize agentic AI and MLOps pipelines for deploy, monitor, retrain.
-- Build production AI agents, deep learning models, and retrieval‑augmented generation (RAG).
-- Design end-to-end data pipelines for large, distributed systems and integrate proprietary + third‑party data into secure AI microservices.
-- Lead research‑to‑production initiatives that push technical and operational edges while preserving governance and auditability.
+I still design and ship production AI: multi-agent systems, RAG over messy data, evals and guardrails, and UI teams actually use. Remote. Flexible across time zones.
 
 ---
 
-## 💸 Outcomes I deliver
-- Multiple agents for PwC DeepRisk that automate complex risk intelligence analysis.
-- Cut infrastructure costs by ~30% while boosting deployment speed by ~60% through cloud and CI improvements.
-- Implemented ethics, governance, and compliance controls in production.
-- Guided framework, orchestration, and rollout decisions across teams to align AI work to revenue, efficiency, and decision quality.
-- Mentored engineers and analysts for repeatable, high-quality delivery.
+## 🔁 Problem, build, quality, monetize
+
+The loop I am building toward, and the products I am putting in front of the market.
+
+- **[ManifestOS.studio](https://manifestos.studio)**: bring a problem, not an app idea. A problem-solving network that can build software, so a solution can be described, used, shared, and adapted.
+- **[AppHole.pro](https://apphole.pro)**: check a shipped or nearly shipped app for quality and issues (broken flows, onboarding, payments, trust) before customers find them.
+- **[Make it RAIN](https://makeitrainapp.com)**: you built something real. Find who may pay, stress-test the offer, and pick the next conversation worth having.
 
 ---
 
-## 🧠 Core skills & tech stack
-- AI Strategy & Architecture: agentic AI, LLM orchestration, evals & guardrails, NLP, CV
-- MLOps & CI/CD: LangChain, MLflow, Docker, GitHub Actions, Azure DevOps
-- Cloud & Distributed: Azure AI, Azure ML, Kubernetes, AWS, GCP
-- Data Engineering: ETL, Pandas, Pydantic, Azure Blob Storage, data lakes
-- Optimization & Serving: vector search, RAG, ONNX, NVIDIA Triton
-- Governance & Risk: security, auditability, regulatory alignment
+## 📚 Great App. Bad Business.
 
-Top skills: MLOps • AI Architecture • ML Engineering
+Shipping is the starting line. A great app can still be a bad business. The book is about commercialization: who may pay, why good products stay unpaid, and how builders fix the commercial side.
 
----
+- Amazon: [Great App. Bad Business.](https://www.amazon.com/Great-App-Bad-Business-Commercial-ebook/dp/B0HHRQT492/)
+- More about the book, the company, and related work: [ReliableAINetwork.com](https://ReliableAINetwork.com)
 
-## 🔧 Featured repositories
-- Epiphany — https://github.com/aurelius-in/Epiphany  
-  (Agent orchestration, retrieval patterns, and production pipelines.)
-- MyRiskAgent — https://github.com/aurelius-in/MyRiskAgent  
-  (Risk-focused agent prototypes and RAG experiments.)
-- ACE-Lab — https://github.com/aurelius-in/ACE-Lab  
-  (Architecture & evaluation tooling for agentic systems.)
-- perception-lab — https://github.com/aurelius-in/perception-lab  
-  (CV and perception components for real-world systems.)
-- EdgeSight-QA — https://github.com/aurelius-in/EdgeSight-QA  
-  (QA and evaluation frameworks for edge and enterprise data.)
+Other titles: *The Agentic AI Week*, *The AI Architect's Handbook*, *The AI-Driven Organization*, *AI Strategy and Implementation*.
 
 ---
 
-## 📚 Published books
-- The Agentic AI Week: Ship Weekly. Prove Daily. Scale Safely  
-- The AI Architect's Handbook: Designing Scalable and Intelligent Systems    
-- The AI-Driven Organization: Strategies for Success 
-- Artificial Intelligence in Robotics: Transforming the Future 
-- AI Strategy and Implementation: A Practical Guide for Leaders 
+## 💼 Consulting and freelance
+
+Select senior work through **Reliable AI Network**: AI architecture and production readiness, agentic systems and multi-agent workflows, RAG and knowledge assistants, Python / FastAPI backends, reliability, observability, and governance, plus technical roadmaps that connect a product to positioning and monetization.
+
+Typical shape: a short intake, a working session, artifacts you can act on, and optional follow-up (reviews, prototypes, eval harnesses). I also do shipped-to-paid coaching for builders who already have something in the world.
+
+I consult and build for teams that want production readiness, not just demos. Remote only. Flexible worldwide hours.
+
+- Company: [ReliableAINetwork.com](https://ReliableAINetwork.com)
+- Book a chat: [calendly.com/oliveraellison/15min](https://calendly.com/oliveraellison/15min)
+- Email: oliver@reliableainetwork.com
 
 ---
 
-## 📌 Availability & focus
-Open to Staff or Principal IC roles where I can own platform, retrieval, agents, evals, safety, and the UI that ties it together. Remote only. Flexible worldwide hours. I consult and build under Reliable AI Network, Inc. for companies that want production readiness, not just demos.
+## 🔭 Systems work
+
+Same craft, different surface: production AI, not demos.
+
+- Architect and operationalize agentic AI and MLOps pipelines (deploy, monitor, retrain).
+- Build agents, retrieval, evals, and the UI that ties it together.
+- Lead research-to-production work with governance and auditability intact.
+
+Proof already on this profile: multi-agent risk analysis for PwC DeepRisk, ethics and compliance controls in production, cloud and CI work that cut infrastructure cost and sped up deploys, and mentoring for repeatable delivery. Systems gallery: [agentic-portfolio](https://github.com/aurelius-in/agentic-portfolio).
+
+---
+
+## 🧠 Skills
+
+- AI architecture: agentic systems, LLM orchestration, evals and guardrails, RAG, NLP, CV
+- Build and serve: Python, FastAPI, Pydantic, LangChain, LangGraph, Docker, GitHub Actions
+- Cloud and MLOps: Azure, AWS, Kubernetes, Terraform, MLflow
+- Governance: security, observability, auditability, regulatory alignment
+
+Top skills: AI architecture, production readiness, MLOps
+
+---
+
+## 🔧 Selected repositories
+
+Lab and systems work, if you want the internals. These sit behind the loop above. They are not the main offer.
+
+- [Epiphany](https://github.com/aurelius-in/Epiphany): agent orchestration, retrieval patterns, and production pipelines
+- [MyRiskAgent](https://github.com/aurelius-in/MyRiskAgent): risk-focused agent prototypes and RAG experiments
+- [ACE-Lab](https://github.com/aurelius-in/ACE-Lab): architecture and evaluation tooling for agentic systems
+- [perception-lab](https://github.com/aurelius-in/perception-lab): CV and perception components
+- [EdgeSight-QA](https://github.com/aurelius-in/EdgeSight-QA): QA and evaluation for edge and enterprise data
 
 ---
 
 ## 🤝 Connect
-- LinkedIn: https://www.linkedin.com/in/oellison/  
-- AI Portfolio: [https://github.com/aurelius-in/](https://github.com/aurelius-in/agentic-portfolio)
-- Consulting / Company: Reliable AI Network, Inc.  
-- Schedule a chat: https://calendly.com/oliveraellison/15min
-- Email: oliver@reliableAInetwork.com
+
+- LinkedIn: [linkedin.com/in/oellison](https://www.linkedin.com/in/oellison/)
+- GitHub: [github.com/aurelius-in](https://github.com/aurelius-in)
+- Reliable AI Network: [ReliableAINetwork.com](https://ReliableAINetwork.com)
+- Schedule: [calendly.com/oliveraellison/15min](https://calendly.com/oliveraellison/15min)
+- Email: oliver@reliableainetwork.com
