@@ -74,11 +74,4 @@ Lab and systems work, if you want the internals. These sit behind the loop above
 - [perception-lab](https://github.com/aurelius-in/perception-lab): CV and perception components
 - [EdgeSight-QA](https://github.com/aurelius-in/EdgeSight-QA): QA and evaluation for edge and enterprise data
 
----
 
-## 🤝 Connect
-
-- GitHub: [github.com/aurelius-in](https://github.com/aurelius-in)
-- Reliable AI Network: [ReliableAINetwork.com](https://ReliableAINetwork.com)
-- Schedule: [calendly.com/oliveraellison/15min](https://calendly.com/oliveraellison/15min)
-- Email: oliver@reliableainetwork.com
