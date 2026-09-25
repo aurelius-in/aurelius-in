@@ -80,7 +80,6 @@ Lab and systems work, if you want the internals. These sit behind the loop above
 
 ## 🤝 Connect
 
-- LinkedIn: [linkedin.com/in/oellison](https://www.linkedin.com/in/oellison/)
 - GitHub: [github.com/aurelius-in](https://github.com/aurelius-in)
 - Reliable AI Network: [ReliableAINetwork.com](https://ReliableAINetwork.com)
 - Schedule: [calendly.com/oliveraellison/15min](https://calendly.com/oliveraellison/15min)
