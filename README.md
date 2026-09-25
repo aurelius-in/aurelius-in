@@ -37,9 +37,7 @@ Typical shape: a short intake, a working session, artifacts you can act on, and 
 
 I consult and build for teams that want production readiness, not just demos. Remote only. Flexible worldwide hours.
 
-- Company: [ReliableAINetwork.com](https://ReliableAINetwork.com)
-- Book a chat: [calendly.com/oliveraellison/15min](https://calendly.com/oliveraellison/15min)
-- Email: oliver@reliableainetwork.com
+[ReliableAINetwork.com](https://ReliableAINetwork.com)
 
 ---
 
